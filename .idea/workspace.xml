@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7e9af7e-ada4-4c90-9870-192d7dcd05f0" name="Changes" comment="" />
+    <list default="true" id="a7e9af7e-ada4-4c90-9870-192d7dcd05f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/D2/D2_TipCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D3/D3_Pizza.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonproject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D1_bandName.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1/D1_bandName.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D2_TipCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3/D3_TreasureIsland.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3_Pizza.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +21,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tintin4303"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tintin4303/PythonProject.git",
+    "accountId": "207549c6-398f-4178-b705-8d043e22d466"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -21,10 +44,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.D2_TipCalculator.executor": "Run",
+    "Python.D3_Pizza.executor": "Run",
+    "Python.D3_TreasureIsland.executor": "Run",
+    "Python.bandName.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/D2" />
+      <recent name="$PROJECT_DIR$/D1" />
+      <recent name="$PROJECT_DIR$/D3" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
