@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7e9af7e-ada4-4c90-9870-192d7dcd05f0" name="Changes" comment="added Rock paper scissor">
+    <list default="true" id="a7e9af7e-ada4-4c90-9870-192d7dcd05f0" name="Changes" comment="updated Rock paper scissor">
+      <change afterPath="$PROJECT_DIR$/D5/D5_PasswordGenerator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D4/D4_RockPaperScissor.py" beforeDir="false" afterPath="$PROJECT_DIR$/D4/D4_RockPaperScissor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,18 +37,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.D2_TipCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.D3_Pizza.executor&quot;: &quot;Run&quot;,
-    &quot;Python.D3_TreasureIsland.executor&quot;: &quot;Run&quot;,
-    &quot;Python.D4_RockPaperScissor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bandName.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1.executor": "Run",
+    "Python.D2_TipCalculator.executor": "Run",
+    "Python.D3_Pizza.executor": "Run",
+    "Python.D3_TreasureIsland.executor": "Run",
+    "Python.D4_RockPaperScissor.executor": "Run",
+    "Python.D5_PasswordGenerator.executor": "Run",
+    "Python.bandName.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/D2" />
@@ -104,12 +106,29 @@
       <option name="project" value="LOCAL" />
       <updated>1737470033490</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updated Rock paper scissor">
+      <option name="closed" value="true" />
+      <created>1737475939864</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737475939864</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updated Rock paper scissor">
+      <option name="closed" value="true" />
+      <created>1737475949883</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737475949883</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="managed directories and added treasureisland" />
     <MESSAGE value="added Rock paper scissor" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Rock paper scissor" />
+    <MESSAGE value="updated Rock paper scissor" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated Rock paper scissor" />
   </component>
 </project>
