@@ -64,5 +64,3 @@ while 0 <= player <= 2:
 
 else:
     print("Invalid choice. Choose again.")
-
-
