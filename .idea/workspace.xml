@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7e9af7e-ada4-4c90-9870-192d7dcd05f0" name="Changes" comment="updated Rock paper scissor">
-      <change afterPath="$PROJECT_DIR$/D5/D5_PasswordGenerator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a7e9af7e-ada4-4c90-9870-192d7dcd05f0" name="Changes" comment="added FizzBuzz and PasswordGenerator" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,13 +119,22 @@
       <option name="project" value="LOCAL" />
       <updated>1737475949883</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added FizzBuzz and PasswordGenerator">
+      <option name="closed" value="true" />
+      <created>1737479274631</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737479274631</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="managed directories and added treasureisland" />
     <MESSAGE value="added Rock paper scissor" />
     <MESSAGE value="updated Rock paper scissor" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated Rock paper scissor" />
+    <MESSAGE value="added FizzBuzz and PasswordGenerator" />
+    <option name="LAST_COMMIT_MESSAGE" value="added FizzBuzz and PasswordGenerator" />
   </component>
 </project>
