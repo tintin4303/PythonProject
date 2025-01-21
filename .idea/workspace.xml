@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7e9af7e-ada4-4c90-9870-192d7dcd05f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/D2/D2_TipCalculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/D3/D3_Pizza.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonproject.iml" afterDir="false" />
+    <list default="true" id="a7e9af7e-ada4-4c90-9870-192d7dcd05f0" name="Changes" comment="managed directories and added treasureisland">
+      <change afterPath="$PROJECT_DIR$/D4/D4_RockPaperScissor.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D1_bandName.py" beforeDir="false" afterPath="$PROJECT_DIR$/D1/D1_bandName.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D2_TipCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3/D3_TreasureIsland.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/D3_Pizza.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/D3/D3_TreasureIsland.py" beforeDir="false" afterPath="$PROJECT_DIR$/D3/D3_TreasureIsland.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,21 +17,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "tintin4303"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tintin4303&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/tintin4303/PythonProject.git",
-    "accountId": "207549c6-398f-4178-b705-8d043e22d466"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tintin4303/PythonProject.git&quot;,
+    &quot;accountId&quot;: &quot;207549c6-398f-4178-b705-8d043e22d466&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2rdEZJwTGV2afMqv2C6W7mPPrld" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -47,6 +43,7 @@
     "Python.D2_TipCalculator.executor": "Run",
     "Python.D3_Pizza.executor": "Run",
     "Python.D3_TreasureIsland.executor": "Run",
+    "Python.D4_RockPaperScissor.executor": "Run",
     "Python.bandName.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -76,6 +73,27 @@
       <option name="presentableId" value="Default" />
       <updated>1736880606202</updated>
     </task>
+    <task id="LOCAL-00001" summary="managed directories and added treasureisland">
+      <option name="closed" value="true" />
+      <created>1736972987579</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736972987579</updated>
+    </task>
+    <task id="LOCAL-00002" summary="managed directories and added treasureisland">
+      <option name="closed" value="true" />
+      <created>1736973191325</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736973191325</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="managed directories and added treasureisland" />
+    <option name="LAST_COMMIT_MESSAGE" value="managed directories and added treasureisland" />
   </component>
 </project>
