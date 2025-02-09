@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7e9af7e-ada4-4c90-9870-192d7dcd05f0" name="Changes" comment="add D7_WordGuess">
-      <change afterPath="$PROJECT_DIR$/D8/D8_Life_in_Weeks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/D8/D8_Love_Calculator.py" afterDir="false" />
+    <list default="true" id="a7e9af7e-ada4-4c90-9870-192d7dcd05f0" name="Changes" comment="add D8">
+      <change afterPath="$PROJECT_DIR$/D8/CaecerCipher.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D8/D8_Love_Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/D8/D8_Love_Calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.1.executor": "Run",
+    "Python.CaecerCipher.executor": "Run",
     "Python.D2_TipCalculator.executor": "Run",
     "Python.D3_Pizza.executor": "Run",
     "Python.D3_TreasureIsland.executor": "Run",
@@ -159,7 +160,31 @@
       <option name="project" value="LOCAL" />
       <updated>1737750168481</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add D8_Life_in_Weeks.py">
+      <option name="closed" value="true" />
+      <created>1738160551006</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1738160551006</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add D8_Love_Calculator.py">
+      <option name="closed" value="true" />
+      <created>1738160564755</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1738160564755</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add D8">
+      <option name="closed" value="true" />
+      <created>1738160571447</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1738160571447</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -169,6 +194,9 @@
     <MESSAGE value="added FizzBuzz and PasswordGenerator" />
     <MESSAGE value="train loops again and add Reeborg's maze solution" />
     <MESSAGE value="add D7_WordGuess" />
-    <option name="LAST_COMMIT_MESSAGE" value="add D7_WordGuess" />
+    <MESSAGE value="add D8_Life_in_Weeks.py" />
+    <MESSAGE value="add D8_Love_Calculator.py" />
+    <MESSAGE value="add D8" />
+    <option name="LAST_COMMIT_MESSAGE" value="add D8" />
   </component>
 </project>
