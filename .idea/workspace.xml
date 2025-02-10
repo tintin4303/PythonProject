@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7e9af7e-ada4-4c90-9870-192d7dcd05f0" name="Changes" comment="add D8_CaesarCipher.py">
+    <list default="true" id="a7e9af7e-ada4-4c90-9870-192d7dcd05f0" name="Changes" comment="add loop to D8_CaesarCipher.py">
+      <change afterPath="$PROJECT_DIR$/D9/D9_Grading_Program.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +48,10 @@
     "Python.D5_PasswordGenerator.executor": "Run",
     "Python.D7_HangMan.executor": "Run",
     "Python.D7_WordGuess.executor": "Run",
+    "Python.D8_CaesarCipher.executor": "Run",
     "Python.D8_Life_in_Weeks.executor": "Run",
     "Python.D8_Love_Calculator.executor": "Run",
+    "Python.D9_Grading_Program.executor": "Run",
     "Python.bandName.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -206,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739114682361</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add loop to D8_CaesarCipher.py">
+      <option name="closed" value="true" />
+      <created>1739201847719</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1739201847719</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -221,6 +232,7 @@
     <MESSAGE value="add D8_Love_Calculator.py" />
     <MESSAGE value="add D8_CaecerCipher.py" />
     <MESSAGE value="add D8_CaesarCipher.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="add D8_CaesarCipher.py" />
+    <MESSAGE value="add loop to D8_CaesarCipher.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add loop to D8_CaesarCipher.py" />
   </component>
 </project>
