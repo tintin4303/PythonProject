@@ -21,13 +21,13 @@ while loop:
     bids[name] = bid
     q = input("Are there any other bidders? Type 'yes' or 'no'.\n").lower()
     if q == "no":
-        person = ""
+        winner = ""
         maxNum = 0
         for i in bids:
             if bids[i] > maxNum:
                 maxNum = bids[i]
-                person = i
-        print(f"The winner is {person} with a bid of ${bids[person]}.")
+                winner = i
+        print(f"The winner is {winner} with a bid of ${bids[winner]}.")
         break
     else:
         print("\n"*100)
