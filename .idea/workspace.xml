@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7e9af7e-ada4-4c90-9870-192d7dcd05f0" name="Changes" comment="add D9_Grading_Program.py">
-      <change afterPath="$PROJECT_DIR$/D9/1.py" afterDir="false" />
+    <list default="true" id="a7e9af7e-ada4-4c90-9870-192d7dcd05f0" name="Changes" comment="add functions, loops">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/D10/D10_Calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/D10/D10_Calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.1.executor": "Run",
+    "Python.2.executor": "Run",
     "Python.CaecerCipher.executor": "Run",
+    "Python.D10_Calculator.executor": "Run",
     "Python.D2_TipCalculator.executor": "Run",
     "Python.D3_Pizza.executor": "Run",
     "Python.D3_TreasureIsland.executor": "Run",
@@ -52,10 +54,12 @@
     "Python.D8_Life_in_Weeks.executor": "Run",
     "Python.D8_Love_Calculator.executor": "Run",
     "Python.D9_Grading_Program.executor": "Run",
+    "Python.D9_Secret_Auction_Program.executor": "Run",
     "Python.bandName.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "actions.on.save"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -225,7 +229,39 @@
       <option name="project" value="LOCAL" />
       <updated>1739203149369</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add D9_Secret_Auction_Program.py">
+      <option name="closed" value="true" />
+      <created>1739205650312</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1739205650312</updated>
+    </task>
+    <task id="LOCAL-00020" summary="change dictionary name and add welcome">
+      <option name="closed" value="true" />
+      <created>1739205789084</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1739205789084</updated>
+    </task>
+    <task id="LOCAL-00021" summary="change person to winner">
+      <option name="closed" value="true" />
+      <created>1739205898084</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1739205898084</updated>
+    </task>
+    <task id="LOCAL-00022" summary="add functions, loops">
+      <option name="closed" value="true" />
+      <created>1742674839670</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1742674839670</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -242,6 +278,10 @@
     <MESSAGE value="add D8_CaesarCipher.py" />
     <MESSAGE value="add loop to D8_CaesarCipher.py" />
     <MESSAGE value="add D9_Grading_Program.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="add D9_Grading_Program.py" />
+    <MESSAGE value="add D9_Secret_Auction_Program.py" />
+    <MESSAGE value="change dictionary name and add welcome" />
+    <MESSAGE value="change person to winner" />
+    <MESSAGE value="add functions, loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="add functions, loops" />
   </component>
 </project>
